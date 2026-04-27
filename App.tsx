@@ -51,7 +51,7 @@ const App: React.FC = () => {
         <div className="flex items-center gap-2 text-green-500 pointer-events-auto">
           <Terminal className="w-6 h-6 animate-pulse" />
           <div className="flex flex-col">
-            <h1 className="text-xl font-bold tracking-widest uppercase">CyberAscii<span className="text-xs ml-1 opacity-70">v1.0</span></h1>
+            <h1 className="text-xl font-bold tracking-widest uppercase">ASCII-CAM<span className="text-xs ml-1 opacity-70">v1.0</span></h1>
             <span className="text-[8px] tracking-[0.2em] font-mono opacity-50 uppercase">Developed by HARSH KARN</span>
           </div>
         </div>
